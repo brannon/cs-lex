@@ -3,10 +3,12 @@
 This is a fork of the C# Lex tool written by Brad Merrill.
 
 The original documentation can be found here:
-    http://www.cybercom.net/~zbrad/DotNet/Lex/Lex.htm
+
+http://www.cybercom.net/~zbrad/DotNet/Lex/Lex.htm
 
 The original tool can be found here:
-    http://www.cybercom.net/~zbrad/DotNet/Lex/
+
+http://www.cybercom.net/~zbrad/DotNet/Lex/
 
 ## Credits
 
@@ -15,7 +17,7 @@ The design and architecture of CsLex, written in C#, is based on a melding of th
 
 CsLex distinguishes itself by incorporating a number of C# language constructs and services; refer to the design notes for CsLex for more details on C# specific features incorporated into the CsLex design.
 
-## CsLex COPYRIGHT NOTICE, LICENSE AND DISCLAIMER
+#### CsLex COPYRIGHT NOTICE, LICENSE AND DISCLAIMER
 
 CsLex is Copyright 2000 by Brad Merrill
 Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both the copyright notice and this permission notice and warranty disclaimer appear in supporting documentation, and that the name of the authors or their employers not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission.
@@ -24,7 +26,7 @@ The authors and their employers disclaim all warranties with regard to this soft
 
 C# is a trademark of Microsoft Corp. References to the C# programming language in relation to CsLex are not meant to imply that Microsoft endorses this product.
 
-## JLEX COPYRIGHT NOTICE, LICENSE AND DISCLAIMER
+#### JLEX COPYRIGHT NOTICE, LICENSE AND DISCLAIMER
 
 Copyright 1996-2000 by Elliot Joel Berk and C. Scott Ananian
 Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both the copyright notice and this permission notice and warranty disclaimer appear in supporting documentation, and that the name of the authors or their employers not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission.
