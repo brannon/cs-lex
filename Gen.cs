@@ -991,7 +991,7 @@ namespace Lex
 
             if (null == all_states)
             {
-                all_states = new BitSet(states.Count, true);
+                all_states = new BitSet(spec.states.Count, true);
             }
 
             if (ibuf.line_index < ibuf.line_read)
