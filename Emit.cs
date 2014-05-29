@@ -547,7 +547,7 @@ namespace Lex
             if (spec.lex_public)
                 spec_access = "public ";
 
-            outstream.Write(spec_access + "class " + spec.class_name);
+            outstream.Write(spec_access + "partial class " + spec.class_name);
             if (spec.implements_name != null)
             {
                 outstream.Write(" : ");
